@@ -1,0 +1,5 @@
+# Project exclude paths
+/.gradle/
+/Chuck Norris Cipher Encoder (Java)/task/build/
+/Chuck Norris Cipher Encoder (Java)/task/out/
+/Chuck Norris Cipher Encoder (Java)/task/out/production/classes/
